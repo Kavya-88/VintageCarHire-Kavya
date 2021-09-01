@@ -1,0 +1,32 @@
+.enquirestyle {
+    background-color: rgb(77, 211, 211);
+}
+
+h2 {
+    font-family:cursive;
+}
+
+h1 {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.card {
+    border: 2px solid rgb(77, 211, 211);
+    border-radius: 10%;
+    height: 300px;
+}
+
+.card > img {
+border-radius: 10%;
+}
+
+.navbar {
+    background-color: rgb(77, 211, 211);
+    font-size:x-large;
+    font-style: italic bold;
+}
+
+
+
+
+
