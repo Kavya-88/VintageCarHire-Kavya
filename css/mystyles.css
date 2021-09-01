@@ -34,6 +34,11 @@ border-radius: 10%;
     background-color: rgb(77, 211, 211);
 }
 
+body {
+    height: auto;
+    width: auto;
+}
+
 
 
 
