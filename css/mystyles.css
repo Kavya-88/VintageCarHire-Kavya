@@ -4,17 +4,25 @@
 
 h2 {
     font-family:cursive;
+    color: crimson;
 }
 
 h1 {
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: crimson;
 }
 
 .card {
     border: 2px solid rgb(77, 211, 211);
     border-radius: 10%;
     height: 300px;
+    margin: 10px;
 }
+
+.card h5 {
+    color: crimson;
+}
+
 
 .card > img {
 border-radius: 10%;
